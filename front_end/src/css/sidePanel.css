@@ -1,0 +1,9 @@
+.sidePanel {
+
+    background-color: beige;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 10%;
+    overflow: hidden;
+}

@@ -1,0 +1,11 @@
+.form {
+    align-items: center;
+    display: inline-block;
+    text-align: center;
+    text-decoration-color: white;
+}
+
+
+.label {
+    color: white;
+}
